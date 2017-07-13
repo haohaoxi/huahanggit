@@ -1,0 +1,2 @@
+数据库 yii2webdb 用户 yii2webuser 密码 hhqyfwPWadmin123
+后台用户 ：admin  admin123
